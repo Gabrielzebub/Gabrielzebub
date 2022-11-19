@@ -1,14 +1,14 @@
- 👋 Olá para todos Sou o Gabriel e apaixonado por técnologia, musica e pixelart.
+ 👋 Olá para todos, me chamo Gabriel e sou apaixonado por técnologia, musica e pixelart.
  
- 👾👾Meu foco é estudar sobre game-design e game-development, desde sua programação até as suas artes e musicas, atualmente tentanto trabalhar e aprender de forma casual C# e C++ atrelados a Unity e Unreal5.
+ 👾👾Meu foco é estudar sobre game-development, desde sua programação até as suas artes e musicas, atualmente tentanto trabalhar e aprender de forma casual C# e C++ atrelados a Unity e Unreal 5.
 
 🐱‍👤Estou atualmente no 1º Semestre da faculdade, cursando Análise e Desenvolvimento de Sistemas.
 
-🤖Sempre focado em aprender mais sobre game design e game development.
+🤖Sempre focado em aprender mais sobre game development e também sobre banco de dados.
 
 🤯 Quem puder me ajudar a alavancar meus conhecimentos nessas áreas citadas através de recomendações de cursos e ideias de projétos.. Ficaria Grato.
 
-🧠Estudando a cerca de 4 meses. Busco também aprender um pouco sobre cada tipo de tecnologia, linguagem e framework,  mas somente o básico de tecnologias que poderão me auxiliar.
+🧠Estudando a cerca de 4 meses. auxiliar.
 
 <div align="center">
   <a href="https://github.com/Gabrielzebub">
