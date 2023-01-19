@@ -1,8 +1,9 @@
  👋 Olá para todos, me chamo Gabriel e sou apaixonado por técnologia, musica e pixelart.
  
  👾👾Meu foco é estudar sobre game-development, desde sua programação até as suas artes e musicas, atualmente tentanto trabalhar e aprender de forma casual C# e C++ atrelados a Unity e Unreal 5.
+ Tabém estou estudando SQL server e ferramentas de ETL, como exemplo o Pentaho.
 
-🐱‍👤Estou atualmente no 1º Semestre da faculdade, cursando Análise e Desenvolvimento de Sistemas.
+🐱‍👤Estou atualmente no 2º Semestre da faculdade, cursando Análise e Desenvolvimento de Sistemas.
 
 🤖Sempre focado em aprender mais sobre game development e também sobre banco de dados.
 
