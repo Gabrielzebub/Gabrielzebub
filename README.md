@@ -1,7 +1,9 @@
- 👋 Olá para todos, me chamo Gabriel e sou apaixonado por técnologia, musica e pixelart.
+ 👋 Olá para todos, me chamo Gabriel e sou estudante de técnologia.
  
- 👾👾Meu foco é estudar sobre game-development, desde sua programação até as suas artes e musicas, atualmente tentanto trabalhar e aprender de forma casual C# e C++ atrelados a Unity e Unreal 5.
- Tabém estou estudando SQL server e ferramentas de ETL, como exemplo o Pentaho.
+ 👾👾Meu foco é estudar sobre game-development, desde sua programação até as suas artes e musicas, atualmente tentanto trabalhar e aprender  C++ atrelado a engine Unreal 5.
+ 
+ 🌐💻Também estou estudando Python; SQL-Server; Power-BI e Pandas para analise de dados. Futuramente planejo estudar sobre I.A e machine learning com PYthon. 
+ 
 
 🐱‍👤Estou atualmente no 2º Semestre da faculdade, cursando Análise e Desenvolvimento de Sistemas.
 
@@ -9,7 +11,7 @@
 
 🤯 Quem puder me ajudar a alavancar meus conhecimentos nessas áreas citadas através de recomendações de cursos e ideias de projétos.. Ficaria Grato.
 
-🧠Estudando a cerca de 4 meses. auxiliar.
+
 
 <div align="center">
   <a href="https://github.com/Gabrielzebub">
